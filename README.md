@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Relexson
-- 👀 I’m interested in building apps
-- 🌱 I’m currently learning Python, HTML 5, CSS, Javascript, React.js, Jquery
-- 💞️ I’m looking to collaborate on Github, Stakeoverflow, cool projects.
+- 👀 I’m interested in web development.
+- 🌱 Python, HTML5, CSS3, Javascript.
+- 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me relexsonbebe@gmail.com
 
 <!---
